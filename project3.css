@@ -1,0 +1,86 @@
+.main{
+    
+  background-image: url(https://wallpapers.com/images/hd/eerie-cute-dark-girly-jae4j3srrrstr4lk.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  border-radius: 5px;
+
+  margin: 0px;
+  padding: 20px;
+
+}
+
+.one{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    background-color: black;
+    margin-left:10px ;
+    margin-right: 50px;
+    margin-top: 30px;
+    border-radius: 10px;
+
+}
+
+.item1{
+    font-size: larger;
+}
+
+.item2{
+    display: flex;
+    gap: 50px;
+}
+
+
+
+
+a{
+    display: flex;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+
+h1{
+    font-size: 30px;
+    color: white;
+    position: relative;
+    top: 40px;
+    left: 15px;
+    padding-top: 15px;
+    
+}
+
+h2{
+    font-size:30px ;
+    color: white;
+     position: relative;
+    top: 40px;
+    left: 15px;
+    
+    
+}
+
+p{
+    font-size: medium;
+    color: white;
+     position: relative;
+    top: 40px;
+    left: 15px;
+    
+    
+    
+
+}
+
+button{
+    background-color: white;
+    position: relative;
+    top: 40px;
+    left: 15px;
+    
+}
